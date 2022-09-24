@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+// This is sourced from https://www.w3schools.com/html/html_intro.asp
+
+<html>
+	
+	<head>
+		
+		<title>Page Title</title>
+
+	</head>
+
+	<body>
+
+		<h1>This is a heading</h1>
+		<p>This is a paragraph.</p>
+		<p>This is another paragraph.</p>
+
+	</body>
+
+</html> 
